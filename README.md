@@ -1,6 +1,6 @@
 
 # AIRBNB MARKET ANALYSIS
-<a href="https://public.tableau.com/views/AIRBNBTABLEAUPROJECT/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Click here</a> to see this project Tableu Public platform
+<a href="https://public.tableau.com/views/AIRBNBTABLEAUPROJECT/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Click here</a> to view this project on Tableu Public platform that allows interactivity
 
 
 ## 1. Project Overview
