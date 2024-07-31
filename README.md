@@ -4,7 +4,7 @@
 ## 1. Project Overview
 
 This Tableau-based analysis explores the Airbnb rental market in Seattle, USA, using a comprehensive dataset of 25,531 unique values. The project's goal is to provide actionable insights for hosts, investors, and platform operators in this competitive short-term rental landscape.
-This project demonstrates the power of data-driven decision-making in the dynamic short-term rental industry, offering valuable insights to navigate Seattle's Airbnb ecosystem effectively.
+This market analysis demonstrates the power of data-driven decision-making in the dynamic short-term rental industry, offering valuable insights to navigate Seattle's Airbnb ecosystem effectively.
 
 ### Key Questions to Answer:
 
